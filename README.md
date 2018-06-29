@@ -1,6 +1,10 @@
 # Test-Automation---Page-Object-Model---Selenium -TestNG - Maven - Facebook-login-bypass-the-mobile-security-
 
-▶ Log in your facebook account with pom!
+▶ Verify your facebook account with pom!
+
+Here are we are dealing with 2 pages (Ι consider the user's registration form as a second page)
+
+Login Page/Home Page
 
 Change the values with (testLogin.java): 
 
