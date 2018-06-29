@@ -41,7 +41,7 @@ public class testLogin {
         objLogin = new loginPage(driver);
         //login to application
         objLogin.loginToPage("your email", "your password");
-        //long delay - Unlock your facebook account with your mobile phone
+        //long delay - Unlock your facebook account
         Thread.sleep(20000);
 
         //verify home page
