@@ -1,6 +1,6 @@
 # Test-Automation---Page-Object-Model---Selenium -TestNG - Maven - Facebook-login-bypass-the-mobile-security-
 
-▶ Verify your facebook account with pom (2Positive TCs)!
+▶ Test your facebook account with pom (2Positive TCs)!
 
 Here are we are dealing with 2 pages
 
