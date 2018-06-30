@@ -2,7 +2,7 @@
 
 ▶ Verify your facebook account with pom (2Positive TCs)!
 
-Here are we are dealing with 2 pages (Ι consider the user's registration form as a second page)
+Here are we are dealing with 2 pages (Ι consider the user's log in form as a second page)
 
 Login Page/Home Page
 
