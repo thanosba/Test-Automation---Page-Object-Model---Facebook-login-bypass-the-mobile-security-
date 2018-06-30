@@ -19,7 +19,7 @@ Change the values with (testLogin.java):
 'Run > Edit configurations > VM Options'
 
 
- and set your path:
+ and set your path for example:
  
 -Dwebdriver.chrome.driver="C:\\Users\\This\\Is\\Where\\ChromeDriverIs\\chromedriver"
 
