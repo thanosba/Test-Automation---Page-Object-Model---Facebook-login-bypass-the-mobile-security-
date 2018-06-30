@@ -37,14 +37,14 @@ public class testLogin {
 
     public void test_Home_Page_Appear_Correct() throws InterruptedException {
 
-
+        //1TC 
         objLogin = new loginPage(driver);
         //login to application
         objLogin.loginToPage("your email", "your password");
         //long delay - Unlock your facebook account
         Thread.sleep(20000);
 
-        //verify home page
+        //2TC verify home page
         objHomePage = new HomePage(driver);
         Assert.assertTrue(objHomePage.getHomePageDashboardUserName().contains("your name"));
 
